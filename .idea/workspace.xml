@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:src" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:src" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CountyRP.WebSite" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:src" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:CountyRP.WebSite" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ClientApp" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c8c4609-24bd-4965-b046-e38a458fa56e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/KShaddix/county-rp.git" />
+        <option value="https://github.com/leonid460/county-rp.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f9Gq8AFPTIz0IkxVGUfDMG5foo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c8c4609-24bd-4965-b046-e38a458fa56e" name="Default Changelist" comment="" />
+      <created>1595623082205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595623082205</updated>
+      <workItem from="1595623083734" duration="6442000" />
+      <workItem from="1595780547449" duration="9912000" />
+      <workItem from="1596028734164" duration="298000" />
+      <workItem from="1596029085166" duration="19000" />
+      <workItem from="1596029118979" duration="361000" />
+      <workItem from="1596031925921" duration="197000" />
+      <workItem from="1596043245217" duration="2294000" />
+      <workItem from="1596057238668" duration="408000" />
+      <workItem from="1596549891414" duration="767000" />
+      <workItem from="1598295222111" duration="621000" />
+      <workItem from="1598297549831" duration="847000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add log page (without ant functionality yet)">
+      <created>1595793101140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595793101140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/AdminPanel/types/_AdminLevel.d.ts" />
+        <option value="$PROJECT_DIR$/src/AdminPanel/types/_Person.d.ts" />
+        <option value="$PROJECT_DIR$/src/AdminPanel/types/_Group.d.ts" />
+        <option value="$PROJECT_DIR$/src/AdminPanel/types/_Faction.d.ts" />
+        <option value="$PROJECT_DIR$/src/AdminPanel/types/_Player.d.ts" />
+        <option value="$PROJECT_DIR$/src/AdminPanel/types/index.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature/logPage" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add log page (without ant functionality yet)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add log page (without ant functionality yet)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="190" key="#TypeScript" timestamp="1595789886224">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="602" y="190" key="#TypeScript/0.0.1792.1120@0.0.1792.1120" timestamp="1595789886224" />
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596550093373">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1596550093373" />
+    <state x="421" y="49" key="CommitChangelistDialog2" timestamp="1595793101014">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="421" y="49" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1595793101014" />
+    <state width="1771" height="313" key="GridCell.Tab.0.bottom" timestamp="1598298348687">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1598298348687" />
+    <state width="1771" height="313" key="GridCell.Tab.0.center" timestamp="1598298348686">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1598298348686" />
+    <state width="1771" height="313" key="GridCell.Tab.0.left" timestamp="1598298348686">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1598298348686" />
+    <state width="1771" height="313" key="GridCell.Tab.0.right" timestamp="1598298348687">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="313" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1598298348687" />
+    <state x="498" y="186" key="RollbackChangesDialog" timestamp="1596032035335">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="498" y="186" key="RollbackChangesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1596032035335" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1596032120590">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1596032120590" />
+    <state x="594" y="301" width="604" height="518" key="find.popup" timestamp="1598298163664">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="594" y="301" width="604" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1598298163664" />
+    <state x="561" y="265" key="run.anything.popup" timestamp="1595635045953">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="265" key="run.anything.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1595635045953" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1595795707707">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1595795707707" />
+  </component>
+</project>
